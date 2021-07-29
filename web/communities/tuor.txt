@@ -1,0 +1,18 @@
+ATUALIZAÇÕES DAS COMUNIDADES
+
+1) Novo layout com avatar e sem capa
+2) Painel de apresentação com HTML 
+3)Categorias e tipo de comunidade editável
+4)Edição de tópicos
+5)Opção de fechar/abrir tópicos
+6)Opção de fixar/desafixar tópicos
+7)Opção de responder a uma mensagem nos tópicos
+8)Opção de gostei de alguma mensagem dos tópicos
+9)Respostas/notificações em tempo real quando está no tópico, quando sai do tópico e permanece na comunidade o sistema notifca com um banner que flutua na tela, se sair da comunidade depois de alguns segundos a notificação é identica a antiga.
+10)Opção de pesquisar membros nas comunidades e atribuir moderador , banir ou excluir.função só para dono da comunidade ou moderadores.
+11)Opção de convidar membros em comunidade particular
+12)Opção de Visualizações da comunidade com contador de visitas
+13)Opção que mostra os usuários online naquela comunidade
+14)Comunidades relacionadas 
+15)Comunidade verificada (este sistema verifica automaticamente se uma comunidade é válida e marca ela)
+16)Pequeno tutorial 
